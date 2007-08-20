@@ -34,6 +34,6 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{_bindir}/showrgb
 %{_datadir}/X11/rgb.txt
-%{_mandir}/man1/showrgb.1x.bz2
+%{_mandir}/man1/showrgb.*
 
 
