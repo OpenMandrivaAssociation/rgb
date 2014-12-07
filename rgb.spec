@@ -1,7 +1,7 @@
 Summary:	Uncompile an rgb color
 Name:		rgb
 Version:	1.0.5
-Release:	8
+Release:	9
 Group:		Development/X11
 License:	MIT
 Url:		http://xorg.freedesktop.org/releases/individual/app/
