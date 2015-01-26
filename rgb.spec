@@ -1,7 +1,7 @@
 Summary:	Uncompile an rgb color
 Name:		rgb
-Version:	1.0.5
-Release:	9
+Version:	1.0.6
+Release:	1
 Group:		Development/X11
 License:	MIT
 Url:		http://xorg.freedesktop.org/releases/individual/app/
@@ -17,7 +17,7 @@ the dbm database routines and converts it back to source form.
 %setup -q
 
 %build
-%configure2_5x \
+%configure \
 	--x-includes=%{_includedir}\
 	--x-libraries=%{_libdir}
 
